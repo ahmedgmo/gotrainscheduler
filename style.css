@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url('./images/GO-Transit.jpg') !important; 
+    color: white
+}
+
+.card-header {
+    color: white;
+    font-weight: bold;
+    background-color: #00A48D;
+}
+
+.btn {
+    background-color: #00A48D;
+    color: white
+}
+
